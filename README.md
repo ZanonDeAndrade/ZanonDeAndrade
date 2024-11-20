@@ -1,6 +1,6 @@
-## Olá, sou Arthur Zanon de Andrade 👋
+## Olá, sou Arthur Zanon de Andrade 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanonDeAndrade)](https://github.com/ZanonDeAndrade/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 <div style="display: inline_block"><br>
